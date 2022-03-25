@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1024917827843",
+    "project_id": "invite-code-f29a3",
+    "storage_bucket": "invite-code-f29a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024917827843:android:de430c2d28a73dd9bdb936",
+        "android_client_info": {
+          "package_name": "com.example.invite_code"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024917827843-tlj9hs2va8j0phmucrgmf80929pcgbpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLGXGSS_EQL-lfsd7K0-N3LiVtlcy8tdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024917827843-tlj9hs2va8j0phmucrgmf80929pcgbpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
